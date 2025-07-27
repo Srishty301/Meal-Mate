@@ -1,4 +1,4 @@
-# Recipe-App
+# Meal-Mate
 
 This project is a responsive, web-based recipe application that allows users to search and explore various recipes by name, utilizing the MealDB API to fetch dynamic content. The app is designed to provide an intuitive and visually appealing user experience, displaying recipe details and instructions in an organized and accessible manner.
 
